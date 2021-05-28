@@ -11,16 +11,22 @@
         "desc": "www.jpdaka.com"
       },
       {
+        "url": "https://resume.mdedit.online",
+        "logo": "assets/images/logos/viggoz.png",
+        "title": "木及简历",
+        "desc": "Markdown 简历"
+      },
+      {
         "url": "https://medium.com/",
         "logo": "assets/images/logos/medium.png",
         "title": "Medium",
         "desc": "高质量设计文章"
       },
       {
-        "url": "https://www.producthunt.com",
-        "logo": "assets/images/logos/producthunt.png",
-        "title": "Producthunt",
-        "desc": "发现新鲜有趣的产品"
+        "url": "https://hao.logosc.cn/",
+        "logo": "https://hao.logosc.cn/static/img/cysq.svg",
+        "title": "Startup artifact navigation",
+        "desc": "创业神器导航"
       }
     ]
   },
@@ -82,6 +88,19 @@
         "logo": "assets/images/logos/gtn9.png",
         "title": "古田路9号",
         "desc": "国内专业品牌创意平台"
+      }
+    ]
+  },
+  {
+    "name": "新媒体常用",
+    "en_name": "Recommended",
+    "icon": "linecons-star",
+    "web": [
+      {
+        "url": "https://www.wechatsync.com/",
+        "logo": "assets/images/logos/viggoz.png",
+        "title": "微信公众号同步助手",
+        "desc": "公众号文章多平台同步 Typora Markdown写作 一文多发"
       }
     ]
   }
