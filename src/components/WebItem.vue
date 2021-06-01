@@ -12,9 +12,9 @@
           :data-original-title="web.url">
 
           <div class="xe-comment-entry">
-            <a class="xe-user-img">
+            <!--<a class="xe-user-img">
               <img :src="web.logo" class="lozad img-circle" width="40">
-            </a>
+            </a> -->
             <div class="xe-comment">
               <a href="#" class="xe-user-name overflowClip_1">
                 <strong>{{web.title}}</strong>
@@ -45,6 +45,9 @@ export default {
 </script>
 
 <style scoped>
+.xe-user-name{
+font-size:15px;
+}
 i {
   margin-right: 7px;
 }

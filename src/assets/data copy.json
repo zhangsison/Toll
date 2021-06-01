@@ -30,6 +30,32 @@
       }
     ]
   },
+    {
+    "name": "SEO信息流",
+    "en_name": "SEO Media",
+    "icon": "linecons-star",
+    "web": [
+      {
+        "url": "https://www.5118.com",
+        "logo": "assets/images/logos/viggoz.png",
+        "title": "5118营销大数据",
+        "desc": "5118营销大数据 - 智能原创改写,长尾词挖掘,营销情报,站长工具"
+      }
+    ]
+  },
+  {
+    "name": "新媒体常用",
+    "en_name": "New Media",
+    "icon": "linecons-star",
+    "web": [
+      {
+        "url": "https://www.wechatsync.com/",
+        "logo": "assets/images/logos/viggoz.png",
+        "title": "微信公众号同步助手",
+        "desc": "公众号文章多平台同步 Typora Markdown写作 一文多发"
+      }
+    ]
+  },
   {
     "name": "社区资讯",
     "en_name": "Information",
@@ -88,19 +114,6 @@
         "logo": "assets/images/logos/gtn9.png",
         "title": "古田路9号",
         "desc": "国内专业品牌创意平台"
-      }
-    ]
-  },
-  {
-    "name": "新媒体常用",
-    "en_name": "Recommended",
-    "icon": "linecons-star",
-    "web": [
-      {
-        "url": "https://www.wechatsync.com/",
-        "logo": "assets/images/logos/viggoz.png",
-        "title": "微信公众号同步助手",
-        "desc": "公众号文章多平台同步 Typora Markdown写作 一文多发"
       }
     ]
   }
