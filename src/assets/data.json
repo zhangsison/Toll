@@ -1,175 +1,178 @@
 [
-  {
-    "name": "常用推荐",
-    "en_name": "Recommended",
-    "icon": "linecons-star",
-    "web": [
-      {
-        "url": "https://www.jpdaka.com/",
-        "title": "迪拜de天空",
-        "desc": "www.jpdaka.com"
-      },
-      {
-        "url": "https://resume.mdedit.online",
-        "title": "木及简历",
-        "desc": "Markdown 简历"
-      },
-      {
-        "url": "https://medium.com/",
-        "logo": "assets/images/logos/medium.png",
-        "title": "Medium",
-        "desc": "高质量设计文章"
-      },
-      {
-        "url": "https://hao.logosc.cn/",
-        "title": "创业神器导航",
-        "desc": "Startup artifact navigation"
-      }
-    ]
-  },
-
-
     {
-    "name": "编程工具",
-    "en_name": "Programming tools",
-    "icon": "linecons-star",
-    "web": [
-      {
-        "url": "https://neumorphism.io",
-        "title": "生成 Soft-UI CSS code",
-        "desc": "Generate Soft-UI CSS code"
-      },
-         {
-        "url": "https://www.shapedivider.app/",
-        "title": "css自定义形状分规",
-        "desc": "Custom Shape Dividers"
-      }
-    ]
-
-  },
-
-
-
+        "name": "常用推荐", 
+        "en_name": "Recommended", 
+        "icon": "linecons-star", 
+        "web": [
+            {
+                "url": "https://www.jpdaka.com/", 
+                "title": "迪拜de天空", 
+                "desc": "www.jpdaka.com"
+            }, 
+            {
+                "url": "https://ebookfoundation.github.io/free-programming-books/books/free-programming-books-zh.html", 
+                "title": "免费编程书籍", 
+                "desc": "free-programming-books"
+            }, 
+            {
+                "url": "https://medium.com/", 
+                "logo": "assets/images/logos/medium.png", 
+                "title": "Medium", 
+                "desc": "高质量设计文章"
+            }, 
+            {
+                "url": "https://dev.to/", 
+                "title": "DEV社区", 
+                "desc": "DEV Community 👩‍💻👨‍💻"
+            }, 
+            {
+                "url": "https://adzhp.cn/", 
+                "title": "爱达杂货铺", 
+                "desc": "爱达杂货铺好用实用软件推荐"
+            }
+        ]
+    }, 
     {
-    "name": "SEO信息流",
-    "en_name": "SEO Media",
-    "icon": "linecons-star",
-    "web": [
-      {
-        "url": "https://www.5118.com",
-        "title": "5118营销大数据",
-        "desc": "5118营销大数据 - 智能原创改写,长尾词挖掘,营销情报,站长工具"
-      }
-    ]
-  },
-
-
-  {
-    "name": "新媒体常用",
-    "en_name": "New Media",
-    "icon": "linecons-star",
-    "web": [
-      {
-        "url": "http://admin.openwrite.cn",
-        "title": "openwrite",
-        "desc": "openwrite文章分发系统"
-      },
-       {
-        "url": "https://xiaomark.com/tool",
-        "title": "运营工具大全",
-        "desc": " 收录优秀好用的运营工具"
-      },
-       {
-        "url": "https://school.jinritemai.com/doudian/web/",
-        "title": "抖音电商能量站",
-        "desc": "抖音电商官方教育学习平台"
-      },
-       {
-        "url": "https://www.xmyeditor.com/tools/index.html",
-        "title": "新媒体工具大全",
-        "desc": "速排小蚂蚁编辑器新媒体工具大全"
-      },
-      {
-        "url": "https://www.wechatsync.com/",
-        "title": "微信公众号同步助手",
-        "desc": "公众号文章多平台同步 Typora Markdown写作 一文多发"
-      }
-    ]
-  },
-
-   {
-    "name": "设计工具",
-    "en_name": "design",
-    "icon": "linecons-star",
-    "web": [
-       {
-        "url": "http://hao.shejidaren.com/",
-        "title": "设计师网址导航",
-        "desc": "设计师网址导航专注分享优秀设计网站"
-      },
-      {
-        "url": "https://pixabay.com/zh/",
-        "title": "Pixabay优质图片和视频素材",
-        "desc": "免费正版高清图片素材库"
-      },
-       {
-        "url": "https://wallhaven.cc/",
-        "title": "wallhaven",
-        "desc": "国外的高清图片"
-      }
-    ]
-  },
-
-  {
-    "name": "社区资讯",
-    "en_name": "Information",
-    "icon": "linecons-doc",
-    "web": [
-      {
-        "url": "http://36kr.com/",
-        "title": "36kr",
-        "desc": "创业资讯、科技新闻"
-      },
-      {
-        "url": "http://www.lieyunwang.com/",
-        "title": "猎云网",
-        "desc": "互联网创业项目推荐和创业创新资讯"
-      },
-      {
-        "url": "http://www.woshipm.com/",
-        "title": "人人都是产品经理",
-        "desc": "产品经理、产品爱好者学习交流平台"
-      },
-      {
-        "url": "https://www.zaodula.com/",
-        "title": "互联网早读课",
-        "desc": "互联网行业深度阅读与学习平台"
-      },
-      {
-        "url": "http://www.chanpin100.com/",
-        "title": "产品壹佰",
-        "desc": "为产品经理爱好者提供最优质的产品资讯、原创内容和相关视频课程"
-      },
-      {
-        "url": "http://www.pmcaff.com/",
-        "title": "PMCAFF",
-        "desc": "中国第一产品经理人气组织，专注于研究互联网产品"
-      },
-      {
-        "url": "http://www.iyunying.org/",
-        "title": "爱运营",
-        "desc": "网站运营人员学习交流，专注于网站产品运营管理、淘宝运营。"
-      },
-      {
-        "url": "http://www.niaogebiji.com/",
-        "title": "鸟哥笔记",
-        "desc": "移动互联网第一干货平台"
-      },
-      {
-        "url": "http://www.gtn9.com/",
-        "title": "古田路9号",
-        "desc": "国内专业品牌创意平台"
-      }
-    ]
-  }
+        "name": "编程工具", 
+        "en_name": "Programming tools", 
+        "icon": "linecons-star", 
+        "web": [
+            {
+                "url": "https://neumorphism.io", 
+                "title": "生成 Soft-UI CSS code", 
+                "desc": "Generate Soft-UI CSS code"
+            }, 
+            {
+                "url": "https://github.com/public-apis/public-apis", 
+                "title": "公开的APIs ", 
+                "desc": "Public APIs Run tests Validate links"
+            }, 
+            {
+                "url": "https://www.shapedivider.app/", 
+                "title": "css自定义形状分规", 
+                "desc": "Custom Shape Dividers"
+            }
+        ]
+    }, 
+    {
+        "name": "新媒体常用", 
+        "en_name": "New Media", 
+        "icon": "linecons-star", 
+        "web": [
+            {
+                "url": "https://dh.woshipm.com", 
+                "title": "阿猫阿狗导航", 
+                "desc": "产品经理导航|运营导航|设计师导航-阿猫阿狗导航"
+            }, 
+            {
+                "url": "https://www.5118.com", 
+                "title": "5118营销大数据", 
+                "desc": "5118营销大数据 - 智能原创改写,长尾词挖掘,营销情报,站长工具"
+            }, 
+            {
+                "url": "http://admin.openwrite.cn", 
+                "title": "openwrite", 
+                "desc": "openwrite文章分发系统"
+            }, 
+            {
+                "url": "https://xiaomark.com/tool", 
+                "title": "运营工具大全", 
+                "desc": " 收录优秀好用的运营工具"
+            }, 
+            {
+                "url": "https://school.jinritemai.com/doudian/web/", 
+                "title": "抖音电商能量站", 
+                "desc": "抖音电商官方教育学习平台"
+            }, 
+            {
+                "url": "https://www.xmyeditor.com/tools/index.html", 
+                "title": "新媒体工具大全", 
+                "desc": "速排小蚂蚁编辑器新媒体工具大全"
+            }, 
+            {
+                "url": "https://www.wechatsync.com/", 
+                "title": "微信公众号同步助手", 
+                "desc": "公众号文章多平台同步 Typora Markdown写作 一文多发"
+            }
+        ]
+    }, 
+    {
+        "name": "设计工具", 
+        "en_name": "design", 
+        "icon": "linecons-star", 
+        "web": [
+            {
+                "url": "https://github.com/bradtraversy/design-resources-for-developers", 
+                "title": "编程设计师常用", 
+                "desc": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more "
+            }, 
+            {
+                "url": "http://hao.shejidaren.com/", 
+                "title": "设计师网址导航", 
+                "desc": "设计师网址导航专注分享优秀设计网站"
+            }, 
+            {
+                "url": "https://pixabay.com/zh/", 
+                "title": "Pixabay优质图片和视频素材", 
+                "desc": "免费正版高清图片素材库"
+            }, 
+            {
+                "url": "https://wallhaven.cc/", 
+                "title": "wallhaven", 
+                "desc": "国外的高清图片"
+            }
+        ]
+    }, 
+    {
+        "name": "社区资讯", 
+        "en_name": "Information", 
+        "icon": "linecons-doc", 
+        "web": [
+            {
+                "url": "http://36kr.com/", 
+                "title": "36kr", 
+                "desc": "创业资讯、科技新闻"
+            }, 
+            {
+                "url": "http://www.lieyunwang.com/", 
+                "title": "猎云网", 
+                "desc": "互联网创业项目推荐和创业创新资讯"
+            }, 
+            {
+                "url": "http://www.woshipm.com/", 
+                "title": "人人都是产品经理", 
+                "desc": "产品经理、产品爱好者学习交流平台"
+            }, 
+            {
+                "url": "https://www.zaodula.com/", 
+                "title": "互联网早读课", 
+                "desc": "互联网行业深度阅读与学习平台"
+            }, 
+            {
+                "url": "http://www.chanpin100.com/", 
+                "title": "产品壹佰", 
+                "desc": "为产品经理爱好者提供最优质的产品资讯、原创内容和相关视频课程"
+            }, 
+            {
+                "url": "http://www.pmcaff.com/", 
+                "title": "PMCAFF", 
+                "desc": "中国第一产品经理人气组织，专注于研究互联网产品"
+            }, 
+            {
+                "url": "http://www.iyunying.org/", 
+                "title": "爱运营", 
+                "desc": "网站运营人员学习交流，专注于网站产品运营管理、淘宝运营。"
+            }, 
+            {
+                "url": "http://www.niaogebiji.com/", 
+                "title": "鸟哥笔记", 
+                "desc": "移动互联网第一干货平台"
+            }, 
+            {
+                "url": "http://www.gtn9.com/", 
+                "title": "古田路9号", 
+                "desc": "国内专业品牌创意平台"
+            }
+        ]
+    }
 ]

@@ -919,6 +919,7 @@ body {
     position: relative;
     width: 280px;
     background: #2c2e2f;
+    background-image: url('../images/banner.gif');
     z-index: 1
 }
 
@@ -975,7 +976,7 @@ body {
     text-decoration: none;
     display: block;
     padding: 13px 5px;
-    border-bottom: 1px solid #313437
+    /*border-bottom: 1px solid #313437*/
 }
 
 .sidebar-menu .main-menu a>i {
