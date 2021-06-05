@@ -29,6 +29,16 @@
                 "url": "https://adzhp.cn/", 
                 "title": "爱达杂货铺", 
                 "desc": "爱达杂货铺好用实用软件推荐"
+            }, 
+            {
+                "url": "https://smallpdf.com/", 
+                "title": "Smallpdf", 
+                "desc": "Smallpdf -这个平台可以非常容易地转换和编辑你所有的PDF文件"
+            }, 
+            {
+                "url": "https://vercel.com", 
+                "title": "vercel", 
+                "desc": "网站托管服务"
             }
         ]
     }, 
