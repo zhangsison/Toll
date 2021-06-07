@@ -47,6 +47,21 @@
         "en_name": "Programming tools", 
         "icon": "linecons-star", 
         "web": [
+           {
+                "url": "https://devtool.tech/", 
+                "title": "开发者武器库", 
+                "desc": "开发者武器库程序员工具箱"
+            },
+           {
+                "url": "https://cheatsheets.devtool.tech/", 
+                "title": "前端清单", 
+                "desc": "前端 CheatSheets 目录"
+            },
+           {
+                "url": "https://q.shanyue.tech/", 
+                "title": "大厂面试题每日一题", 
+                "desc": "勤学如春起之苗，不见其增，日有所长"
+            },
             {
                 "url": "https://neumorphism.io", 
                 "title": "生成 Soft-UI CSS code", 
@@ -69,6 +84,11 @@
         "en_name": "New Media", 
         "icon": "linecons-star", 
         "web": [
+           {
+                "url": "https://navi.weixinhost.com/?from=website", 
+                "title": "微信生态工具", 
+                "desc": "收录微信生态内超过200个各类工具"
+            }, 
             {
                 "url": "https://dh.woshipm.com", 
                 "title": "阿猫阿狗导航", 
