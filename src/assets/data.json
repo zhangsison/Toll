@@ -48,6 +48,11 @@
         "icon": "linecons-star", 
         "web": [
            {
+                "url": "https://motion.ant.design/index-cn", 
+                "title": "Motion Design", 
+                "desc": "Ant Motion 能够快速在 React 框架中使用动画"
+            },
+           {
                 "url": "https://devtool.tech/", 
                 "title": "开发者武器库", 
                 "desc": "开发者武器库程序员工具箱"
@@ -85,6 +90,16 @@
         "icon": "linecons-star", 
         "web": [
            {
+                "url": "https://www.kaolamedia.com/video", 
+                "title": "考拉视频直播工具", 
+                "desc": "当前首页为考拉视频直播工具版"
+            }, 
+           {
+                "url": "https://www.kaolamedia.com/", 
+                "title": "考拉新媒体工具", 
+                "desc": "新媒体人每天打开的第一个网站"
+            }, 
+            {
                 "url": "https://navi.weixinhost.com/?from=website", 
                 "title": "微信生态工具", 
                 "desc": "收录微信生态内超过200个各类工具"
@@ -172,11 +187,6 @@
                 "url": "http://www.woshipm.com/", 
                 "title": "人人都是产品经理", 
                 "desc": "产品经理、产品爱好者学习交流平台"
-            }, 
-            {
-                "url": "https://www.zaodula.com/", 
-                "title": "互联网早读课", 
-                "desc": "互联网行业深度阅读与学习平台"
             }, 
             {
                 "url": "http://www.chanpin100.com/", 
