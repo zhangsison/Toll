@@ -15,12 +15,6 @@
                 "desc": "free-programming-books"
             }, 
             {
-                "url": "https://medium.com/", 
-                "logo": "assets/images/logos/medium.png", 
-                "title": "Medium", 
-                "desc": "高质量设计文章"
-            }, 
-            {
                 "url": "https://dev.to/", 
                 "title": "DEV社区", 
                 "desc": "DEV Community 👩‍💻👨‍💻"
@@ -89,6 +83,11 @@
         "en_name": "New Media", 
         "icon": "linecons-star", 
         "web": [
+           {
+                "url": "https://creativemass.cn", 
+                "title": "creativemass", 
+                "desc": "精选创意导航"
+            },
            {
                 "url": "https://www.kaolamedia.com/video", 
                 "title": "考拉视频直播工具", 
