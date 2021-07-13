@@ -30,9 +30,14 @@
                 "desc": "爱达杂货铺好用实用软件推荐"
             }, 
             {
-                "url": "https://smallpdf.com/", 
-                "title": "Smallpdf", 
-                "desc": "Smallpdf -这个平台可以非常容易地转换和编辑你所有的PDF文件"
+                "url": "https://vip.bljiex.com/", 
+                "title": "vip视频解析", 
+                "desc": "BL智能解析为您免费解析主流视频"
+            }, 
+            {
+                "url": "http://www.cxy521.com/", 
+                "title": "程序员导航", 
+                "desc": "程序员导航网址"
             }, 
             {
                 "url": "https://vercel.com", 
@@ -46,6 +51,11 @@
         "en_name": "Programming tools", 
         "icon": "linecons-star", 
         "web": [
+           {
+                "url": "http://www.maxdpi.com/gradients.html", 
+                "title": "maxdpi", 
+                "desc": "maxdpi 炫酷的渐变色"
+            },
            {
                 "url": "https://motion.ant.design/index-cn", 
                 "title": "Motion Design", 
@@ -88,6 +98,11 @@
         "en_name": "New Media", 
         "icon": "linecons-star", 
         "web": [
+           {
+                "url": "https://weibo.iiilab.com/", 
+                "title": "视频图片下载工具", 
+                "desc": "视频图片下载工具"
+            },
            {
                 "url": "https://creativemass.cn", 
                 "title": "creativemass", 
