@@ -43,6 +43,11 @@
                 "url": "https://vercel.com", 
                 "title": "vercel", 
                 "desc": "网站托管服务"
+            }, 
+            {
+                "url": "https://imagecompressor.com/zh/", 
+                "title": "imagecompressor", 
+                "desc": "图片压缩工具"
             }
         ]
     }, 
@@ -90,6 +95,11 @@
                 "url": "https://www.shapedivider.app/", 
                 "title": "css自定义形状分规", 
                 "desc": "Custom Shape Dividers"
+            }, 
+            {
+                "url": "https://withpinbox.com/", 
+                "title": "Pinbox 跨平台收藏工具", 
+                "desc": "Pinbox 是一款跨平台的收藏工具"
             }
         ]
     }, 
@@ -189,6 +199,11 @@
                 "url": "https://wallhaven.cc/", 
                 "title": "wallhaven", 
                 "desc": "国外的高清图片"
+            }, 
+            {
+                "url": "https://www.remove.bg/", 
+                "title": "removebg", 
+                "desc": "去除背景图片"
             }
         ]
     }, 
