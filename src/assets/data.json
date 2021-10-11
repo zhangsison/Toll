@@ -48,6 +48,11 @@
                 "url": "https://imagecompressor.com/zh/", 
                 "title": "imagecompressor", 
                 "desc": "图片压缩工具"
+            }, 
+            {
+                "url": "https://docschina.org/", 
+                "title": "docschina", 
+                "desc": "印记中文前端工具"
             }
         ]
     }, 
@@ -100,7 +105,18 @@
                 "url": "https://withpinbox.com/", 
                 "title": "Pinbox 跨平台收藏工具", 
                 "desc": "Pinbox 是一款跨平台的收藏工具"
+            }, 
+            {
+                "url": "https://nginxconfig.io/", 
+                "title": "NGINX 配置 ", 
+                "desc": "nginxconfig配置高性能、安全、稳定的NGINX服务器的最简单方法"
+            }, 
+            {
+                "url": "https://responsively.app/", 
+                "title": "responsively 响应式布局 ", 
+                "desc": "响应式布局，一个界面尽收眼底"
             }
+
         ]
     }, 
     {
@@ -172,6 +188,11 @@
                 "url": "https://www.juzikong.com/", 
                 "title": "句子控", 
                 "desc": "收集与分享你喜欢的句子"
+            }, 
+            {
+                "url": "https://smartmockups.com/zh/", 
+                "title": "产品模板生成工具", 
+                "desc": "能创建令人惊艳的产品模板！"
             }
         ]
     }, 
@@ -251,6 +272,11 @@
                 "url": "http://www.gtn9.com/", 
                 "title": "古田路9号", 
                 "desc": "国内专业品牌创意平台"
+            }, 
+            {
+                "url": "http://dh.facebook520.com/", 
+                "title": "外贸导航", 
+                "desc": "外贸导航网址大全"
             }
         ]
     }
